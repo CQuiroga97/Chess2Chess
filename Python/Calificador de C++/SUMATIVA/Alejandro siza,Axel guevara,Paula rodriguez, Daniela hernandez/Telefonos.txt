@@ -1,0 +1,6 @@
+su primer dato es:
+123
+su segundo dato es:
+456
+su tercer dato es:
+789

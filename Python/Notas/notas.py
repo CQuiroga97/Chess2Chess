@@ -1,0 +1,25 @@
+from macro.bot import bot
+bot.alt_tab(1)
+a = 1
+while(True):
+    bot.left_click(600,250, pre_dl=1)
+    bot.left_click(600,266, pre_dl=0.5)
+    bot.left_click(600,266, pre_dl=1.5)
+    bot.left_click(600,300, pre_dl=1.5)
+    bot.left_click(600,290, pre_dl=1.5)
+    bot.type_string("81-82-105-122-111")
+    bot.tab(1)
+    bot.type_string("8182105122111")
+    bot.tab(1)
+    bot.type_string("noseanladrones@ucentral.edu.co")
+    bot.tab(1)
+    bot.down(15)
+    bot.tab(1)
+    bot.type_string("Respondanle a la comunidad")
+    bot.tab(1)
+    bot.type_string("Aumenten el descuento de la matricula y hagan que sea acumulable con los otros descuentos como los del SENA, no sean miserables y egoistas con la comunidad que les ha dado todo, esta es mi protesta virtual -QRizo- Ich werde meinen Namen in Ewigkeit schreiben, der Pinsel wird mein Stolz sein und die Tinte seine Niederlage")
+    bot.tab(1, pre_dl=0.5)
+    bot.tab(1)
+    bot.tap_key("enter")
+    bot.left_click(250,130, pre_dl=2.5)
+    a+=1
