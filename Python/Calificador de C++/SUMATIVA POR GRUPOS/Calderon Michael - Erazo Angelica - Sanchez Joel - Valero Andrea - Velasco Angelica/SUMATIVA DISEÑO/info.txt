@@ -1,7 +1,0 @@
-
-La informacion de su profesor en caso de una emergencia esta aqui: 
-NOMBRE: 1
-APELLIDO: 1
-MATERIA: 1
-CORREO ELECTRONICO: 1
-NUMERO DE TELEFONO O CELULAR: 1

@@ -1,6 +1,0 @@
-su primer fecha es:
-1/2/3
-su segundo fecha es:
-4/5/6
-su tercer fecha es:
-7/8/9
